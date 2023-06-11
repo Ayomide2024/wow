@@ -1,0 +1,44 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+ul{
+   background-color: red;
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+}
+li{
+   float: left;
+   padding: 18px 28px;
+}
+li a{
+   padding: 16px 28px;
+   font-size: 25px;
+   text-decoration: none;
+   color: #fff;
+   font-family: sans-serif;
+}
+li a:hover{
+   background-color: #e8630a;
+}
+.container{
+   background-image:url(bedroom-g4eef36886_1280.jpg);
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 90vh;
+ 
+}
+.text{
+   font-size: 25px;
+   color: #fff;
+   font-family: sans-serif;
+}
+.main{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 68vh;
+}

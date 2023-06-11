@@ -1,0 +1,13 @@
+body{
+    background-image: url(lifestyle-gbc6eeac18_1280.jpg);
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    font-size: 25px;
+    font-family: sans-serif;
+    color: #fff;
+    text-align: center;
+}
